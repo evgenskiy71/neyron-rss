@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Нейрон</title>
     <link>https://evgenskiy71.github.io/neyron-rss</link>
     <description>Финансы, ИИ и мотивация. Коротко и по делу.</description>
     <language>ru</language>
+    <item>
+      <title><![CDATA[Midjourney против реальности: как ИИ заменит 50% фотостоков уже в 2025]]></title>
+      <link>https://evgenskiy71.github.io/neyron-rss/articles/ai_tech_1782385640999.html</link>
+      <guid isPermaLink="false">ai_tech_1782385640999</guid>
+      <pubDate>Thu, 25 Jun 2026 11:07:39 GMT</pubDate>
+      <category>format-article</category>
+      <category>index</category>
+      <category>comment-all</category>
+      <enclosure url="https://images.unsplash.com/photo-1737644467636-6b0053476bb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Njk2NDR8MHwxfHNlYXJjaHwyfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwcm9ib3QlMjB0ZWNobm9sb2d5fGVufDB8MHx8fDE3ODIzODU2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" type="image/jpeg"/>
+      <description><![CDATA[Midjourney против реальности: как ИИ заменит 50% фотостоков уже в 2025 — читайте на канале Нейрон]]></description>
+      <content:encoded><![CDATA[<figure><img src="https://images.unsplash.com/photo-1737644467636-6b0053476bb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Njk2NDR8MHwxfHNlYXJjaHwyfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwcm9ib3QlMjB0ZWNobm9sb2d5fGVufDB8MHx8fDE3ODIzODU2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="A white robot is standing in front of a black background"/></figure>
+<p><strong>Представьте: вы ищете фото «бизнесмен в полете» для сайта. Раньше это стоило $50 за лицензию. Сегодня нейросеть генерирует сотню таких изображений за минуту. И это не фантастика — это новая реальность, которая уже ломает рынок фотостоков. Готовы узнать, как ИИ изменит вашу работу?</strong></p>
+<hr/>
+<figure><img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Njk2NDR8MHwxfHNlYXJjaHwxfHxjb21wdXRlciUyMGRpZ2l0YWwlMjBpbm5vdmF0aW9uJTIwZnV0dXJlfGVufDB8MHx8fDE3ODIzODU2NTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Почему стоки теряют почву"/></figure>
+<h2>Почему стоки теряют почву</h2>
+<p>Фотостоки десятилетиями зарабатывали на продаже лицензий. Но с появлением Midjourney и DALL-E 3 модель рухнула. Нейросеть создает уникальное изображение за 30 секунд, а не ищет его часами в каталоге. Для бизнеса это означает экономию бюджета и времени. Уже в 2024 году продажи на Shutterstock упали на 30% — люди перестали покупать то, что можно сгенерировать бесплатно или за копейки.</p>
+<hr/>
+<figure><img src="https://images.unsplash.com/photo-1548092372-0d1bd40894a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Njk2NDR8MHwxfHNlYXJjaHwyfHxjb21wdXRlciUyMGRpZ2l0YWwlMjBpbm5vdmF0aW9uJTIwZnV0dXJlfGVufDB8MHx8fDE3ODIzODU2NTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Что умеет ИИ уже сегодня"/></figure>
+<h2>Что умеет ИИ уже сегодня</h2>
+<p>Midjourney v6 рисует фотореалистичные лица, текстуры и сложные сцены. Вы задаете промпт «улыбающаяся женщина в офисе, солнечный свет, кожа с порами» — и получаете снимок, который не отличить от работы профессионального фотографа. Даже перспектива и тени совпадают с реальностью. Единственный минус — руки иногда выходят с шестью пальцами, но эта проблема уже решается в следующих версиях.</p>
+<hr/>
+<figure><img src="https://images.unsplash.com/photo-1749006590475-4592a5dbf99f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Njk2NDR8MHwxfHNlYXJjaHwxMHx8Y29tcHV0ZXIlMjBkaWdpdGFsJTIwaW5ub3ZhdGlvbiUyMGZ1dHVyZXxlbnwwfDB8fHwxNzgyMzg1NjU3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Кого заменит ИИ в первую очередь"/></figure>
+<h2>Кого заменит ИИ в первую очередь</h2>
+<p>Под угрозой фотографы-фрилансеры, продающие стандартные стоковые снимки: бизнес-встречи, природу, еду, абстракции. Нейросеть создает такие кадры быстрее и дешевле. Уже сейчас компании вроде HubSpot используют сгенерированные изображения для блогов. Дизайнеры и маркетологи переходят на ИИ, чтобы не ждать фотосъемку неделями. В 2025 году 50% заказов на стоках просто исчезнут.</p>
+<hr/>
+<figure><img src="https://images.unsplash.com/photo-1649932203796-86c56fdc238c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Njk2NDR8MHwxfHNlYXJjaHwzfHxjb21wdXRlciUyMGRpZ2l0YWwlMjBpbm5vdmF0aW9uJTIwZnV0dXJlfGVufDB8MHx8fDE3ODIzODU2NTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Почему 2025 станет переломным"/></figure>
+<h2>Почему 2025 станет переломным</h2>
+<p>Технология развивается экспоненциально. В конце 2024 года OpenAI представила Sora — генерацию видео по тексту. Midjourney анонсировала поддержку 3D-моделей. Когда нейросети научатся генерировать кадры с любым разрешением и без артефактов, фотографам-стоковикам останется лишь переквалифицироваться. Эксперты прогнозируют, что к 2025 году спрос на классические стоки рухнет на 50%.</p>
+<hr/>
+<figure><img src="https://images.unsplash.com/photo-1750365919878-2735d30fa3d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Njk2NDR8MHwxfHNlYXJjaHw5fHxjb21wdXRlciUyMGRpZ2l0YWwlMjBpbm5vdmF0aW9uJTIwZnV0dXJlfGVufDB8MHx8fDE3ODIzODU2NTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Не все так плохо: новые роли"/></figure>
+<h2>Не все так плохо: новые роли</h2>
+<p>ИИ не делает людей ненужными — он меняет их профессии. Вместо съемки сотен кадров вы теперь управляете генерацией: подбираете промпты, редактируете результат, контролируете стиль. Спрос растет на промпт-инженеров и ИИ-редакторов. Фотографы с уникальным стилем (портретная съемка, репортажи) остаются востребованными — нейросеть пока не передает эмоции живого человека и спонтанность момента.</p>
+<hr/>
+<figure><img src="https://images.unsplash.com/photo-1765256931300-ceeaed648d21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Njk2NDR8MHwxfHNlYXJjaHwxNHx8Y29tcHV0ZXIlMjBkaWdpdGFsJTIwaW5ub3ZhdGlvbiUyMGZ1dHVyZXxlbnwwfDB8fHwxNzgyMzg1NjU3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Как заработать на ИИ прямо сейчас"/></figure>
+<h2>Как заработать на ИИ прямо сейчас</h2>
+<p>Самый простой путь — продавать сгенерированные изображения на платформах вроде Adobe Stock и Midjourney Community. За одно уникальное фото получаете от $1 до $20. Другой вариант — создавать курсы по работе с нейросетями для новичков. Третий — стать посредником: генерировать контент для малого бизнеса, который не умеет формулировать промпты. Уже в 2024 тысячи людей так зарабатывают от $500 в месяц.</p>
+<hr/>
+<figure><img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Njk2NDR8MHwxfHNlYXJjaHw0fHxjb21wdXRlciUyMGRpZ2l0YWwlMjBpbm5vdmF0aW9uJTIwZnV0dXJlfGVufDB8MHx8fDE3ODIzODU2NTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Что делать, чтобы не отстать"/></figure>
+<h2>Что делать, чтобы не отстать</h2>
+<p>Начните изучать Midjourney прямо сегодня. Освойте основы: как писать промпты, управлять композицией и стилем. Тестируйте бесплатные аналоги — Dall-E 3 в Bing или Leonardo.ai. Создайте портфолио из 20-30 сгенерированных работ и предложите клиентам услугу «ИИ-дизайн под ключ». Помните: кто освоит инструмент первым, тот и заберет рынок. Через год будет поздно.</p>
+<hr/>
+<figure><img src="https://images.unsplash.com/photo-1718241905450-a26e6c964239?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Njk2NDR8MHwxfHNlYXJjaHwxNXx8Y29tcHV0ZXIlMjBkaWdpdGFsJTIwaW5ub3ZhdGlvbiUyMGZ1dHVyZXxlbnwwfDB8fHwxNzgyMzg1NjU3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Реальность vs ИИ: итоги"/></figure>
+<h2>Реальность vs ИИ: итоги</h2>
+<p>К 2025 году фотостоки не исчезнут полностью, но их роль кардинально изменится. Живые съемки останутся для рекламы премиум-брендов, а массовый контент перейдет в руки нейросетей. Это нормальная эволюция рынка: как когда-то цифра заменила пленку, так и ИИ заменяет рутинные стоки. Выбор за вами — стать жертвой перемен или их драйвером.</p>
+<hr/>
+<p><em>Хотите первыми освоить Midjourney и зарабатывать на ИИ? Напишите в комментариях «СТАРТ» — и я пришлю вам гайд с 50 промптами для бизнеса. Подпишитесь, чтобы не пропустить новые статьи о технологиях, которые меняют деньги.</em></p>
+<p>#Midjourney #ИскусственныйИнтеллект #Фотостоки #Тренды2025 #ЗаработокНаИИ #Технологии</p>]]></content:encoded>
+      <dc:creator>Нейрон</dc:creator>
+    </item>
     <item>
       <title><![CDATA[Правило 10-10-10: почему копить на квартиру глупее, чем взять ипотеку под 20%]]></title>
       <link>https://evgenskiy71.github.io/neyron-rss/articles/finance_1781629635171.html</link>
